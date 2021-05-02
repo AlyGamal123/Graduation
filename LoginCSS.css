@@ -1,0 +1,29 @@
+body
+{
+    color: black;
+}
+
+#img
+{
+    padding-left: 33%;
+}
+
+#form1
+{
+    padding-left: 45%;
+}
+
+a:link, a:visited {
+  color: white;
+  text-decoration: none;
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 25px;
+}
+
+a:link:active, a:visited:active {
+  color: (internal value);
+}
